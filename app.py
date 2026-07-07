@@ -28,7 +28,14 @@ with st.sidebar:
         type="password",
         help="Read from the OPENAI_API_KEY environment variable by default. Never stored to disk.",
     )
-    model = st.selectbox("Model", ["gpt-4o-mini", "gpt-4o", "gpt-4.1", "gpt-4.1-mini"], index=0)
+    model = st.selectbox(
+        "Model", ["gpt-4o-mini", "gpt-4o", "gpt-4.1", "gpt-4.1-mini", "gemma4-26b-moe"], index=0
+    )
+    base_url = st.text_input(
+        "Base URL (optional)",
+        value=os.environ.get("OPENAI_BASE_URL", ""),
+        help="Only needed for non-OpenAI, OpenAI-compatible endpoints (e.g. gemma4-26b-moe).",
+    )
     st.caption(f"Checks are loaded from `{CHECKS_DIR}/*.json`.")
 
 tab_run, tab_report = st.tabs(["Run Checks", "Report"])
@@ -68,7 +75,7 @@ with tab_run:
     st.subheader("3. Run")
     run_disabled = not sections or not checks or not api_key
     if st.button("Run checks", type="primary", disabled=run_disabled):
-        client = OpenAI(api_key=api_key)
+        client = OpenAI(api_key=api_key, base_url=base_url or None)
         run_id = str(uuid.uuid4())[:8]
         timestamp = datetime.now(timezone.utc).isoformat()
 
