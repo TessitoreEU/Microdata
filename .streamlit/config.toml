@@ -1,12 +1,13 @@
 # Config for hosting behind a reverse proxy that serves the app under a
 # sub-path (e.g. SSP Cloud / Onyxia: https://<host>/proxy/<port>/).
-# Without baseUrlPath, Streamlit's file-uploader XHR requests and websocket
-# connection are built against "/" and fail once the proxy strips/rewrites
-# the "/proxy/<port>" prefix. enableXsrfProtection is disabled because the
-# proxy can rewrite the Origin/Host headers Streamlit's XSRF check relies on.
+# Do NOT set baseUrlPath here: that proxy strips the "/proxy/<port>" prefix
+# before forwarding to the app, so telling Streamlit to also expect that
+# prefix on incoming requests double-applies it and every route 404s.
+# enableXsrfProtection/enableCORS are disabled because the proxy rewrites
+# the Origin/Host headers Streamlit's same-origin checks rely on, which
+# otherwise silently breaks the file-uploader's XHR request.
 [server]
 address = "0.0.0.0"
 port = 8501
-baseUrlPath = "proxy/8501"
 enableCORS = false
 enableXsrfProtection = false
