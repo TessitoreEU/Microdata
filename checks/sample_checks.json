@@ -1,0 +1,18 @@
+{
+  "6": {
+    "6.2": {
+      "title": "Anonymisation of results",
+      "elements_to_be_included_or_confirmed": [
+        {
+          "text": "The specific confidentiality thresholds as laid down in the “Guidelines for publication” will be applied."
+        },
+        {
+          "text": "No confidential information can be inferred from the statistics published on the basis of microdata."
+        },
+        {
+          "text": "When calculating tables, the appropriate thresholds and dominance rules will be applied."
+        }
+      ]
+    }
+  }
+}

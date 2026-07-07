@@ -1,0 +1,205 @@
+{
+  "_metadata": {
+    "document_title": "RESEARCH PROJECT PROPOSAL (RPP) APPLICATION FORM\nRPP 42/2023-LFS-EU-SILC-HBS",
+    "after_numbered_chapters": "------\n\nI hereby certify that the information contained in this questionnaire is complete, accurate and correct and that any future change will be reported immediately to Eurostat. I understand that Eurostat is authorised to check at any time the accuracy of the information given in this form. I understand that Eurostat may also request more information, if necessary.\n\nI confirm that I submit this request in order to be granted access to confidential data for scientific purposes. The decision of Eurostat and the national statistical authorities providing the data may or may not authorise me to be granted access to confidential data for scientific purposes.\n\nFurthermore, I commit myself to take and maintain all necessary measures in compliance with the requirements stated in the confidentiality declaration.\n\nPrincipal researcher:\n\nName: xxxxxxxxxxxxxxxxxxxx\n\nAt: (please state location): ……………………………………\n\nDate: dd/mm/yyyy: ……………………………\n\nSignature: ……………………………….\n\nContact person in the research entity:\n\nName: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n\nAt: (please state location)\t…………………………….\n\nDate: dd/mm/yyyy: ……………………………\n\nSignature: ……………………………….."
+  },
+  "1": {
+    "title": "Research Entity",
+    "1.1": {
+      "title": "Leading Research Entity",
+      "tables": [
+        {
+          "label": "Identification number:",
+          "value": "2013/126/UK"
+        },
+        {
+          "label": "Entity name:",
+          "value": "London School of Economics and Political Science"
+        },
+        {
+          "label": "Contact Person name:",
+          "value": ""
+        }
+      ]
+    }
+  },
+  "2": {
+    "title": "Identification of the researchers (and data manager) who will have access to the data",
+    "2.1": {
+      "title": "Principal researcher",
+      "tables": [
+        {
+          "label": "Name:",
+          "value": ""
+        },
+        {
+          "label": "Position:",
+          "value": ""
+        },
+        {
+          "label": "E-mail:",
+          "value": ""
+        },
+        {
+          "label": "RE Reference Number:",
+          "value": ""
+        },
+        {
+          "label": "Entity name:",
+          "value": ""
+        },
+        {
+          "label": "English name:",
+          "value": ""
+        },
+        {
+          "label": "Address:",
+          "value": ""
+        }
+      ]
+    },
+    "2.2": {
+      "title": "Data managers",
+      "2.2.1": {
+        "title": "Principal Data manager",
+        "tables": [
+          {
+            "label": "Name:",
+            "value": ""
+          },
+          {
+            "label": "Position:",
+            "value": ""
+          },
+          {
+            "label": "Telephone:",
+            "value": ""
+          },
+          {
+            "label": "E-mail:",
+            "value": ""
+          },
+          {
+            "label": "RE Reference Number:",
+            "value": ""
+          },
+          {
+            "label": "Entity name:",
+            "value": ""
+          },
+          {
+            "label": "English name:",
+            "value": ""
+          },
+          {
+            "label": "Address:",
+            "value": ""
+          },
+          {
+            "label": "Web address:",
+            "value": ""
+          }
+        ]
+      }
+    },
+    "2.3": {
+      "title": "Individual researchers",
+      "2.3.1": {
+        "title": "Individual researcher:",
+        "tables": [
+          {
+            "label": "Name:",
+            "value": ""
+          },
+          {
+            "label": "Position:",
+            "value": ""
+          },
+          {
+            "label": "Telephone:",
+            "value": ""
+          },
+          {
+            "label": "E-mail:",
+            "value": ""
+          },
+          {
+            "label": "RE Reference Number:",
+            "value": ""
+          },
+          {
+            "label": "Entity name:",
+            "value": ""
+          }
+        ]
+      }
+    }
+  },
+  "3": {
+    "title": "Purpose of the research proposal",
+    "3.1": {
+      "title": "Title of the research proposal:",
+      "content": "Cumulative Employment Deprivations in the Labour Market"
+    },
+    "3.2": {
+      "title": "Research project description:",
+      "content": "Cumulative Deprivations in the Labour Market\nAims and Scope of the project\nGlobal labour markets are currently undergoing significant and rapid changes, not least due to the impact of different socioeconomic crises and technological progress (Warhurst et al, 2022). Specifically, these crises will affect not only the quantity of jobs (e.g. (un)employment rates), but also their quality. Better data on the former, however, implies that the comparative analysis of job quality is neglected. Current data availability means that it is difficult to measure these developments in a consistent and timely manner across a broad range of countries (Muñoz et al., 2011). \nThis project will generate new evidence on cumulative deprivations in the labour market and how it affects workers and households in European countries. The overall aim is to generate new evidence for policies intended to support the most vulnerable workers in global labour markets. Four work packages with distinct objectives will (1) conceptualise and produce an absolute measure of earnings poverty (2) so that cumulative employment deprivations (which include earnings poverty) can be defined and evaluated across countries; and (2) adopt a genuinely interdisciplinary approach to analysing the data with the objective of informing social and labour policies.\nThree work packages aim to answer the following research questions: \n1.\tMeasurement: How can we best measure earnings poverty and cumulative deprivations in the global labour market?\n2.\tCharacteristics: What are the key characteristics of the most vulnerable workers and of the jobs they hold? Which subgroups in the labour force are most affected by cumulative employment deprivations?\n3.\tGlobal analysis: Are globalisation, deindustrialisation and technological progress driving a process of convergence between developed and developing countries, particularly between their urban hubs, thus changing the geography of job quality (Moretti, 2013)?\n4.\tSocio-economic impact: What are the implicit and explicit costs of cumulative employment deprivations for other areas of social and labour policy (e.g. health and social security contributions, productivity and investment in skills)? And are these negative externalities compounding existing social inequalities (ILO, 2018)?\n5.\tPolicy: How will emerging and existent welfare states be affected by the changing labour market structures that are their foundation, and which policies best support the most vulnerable workers (Castles et al., 2012)?"
+    },
+    "3.3": {
+      "title": "Explanation why the publicly available data cannot be used:",
+      "content": "The estimation of absolute poverty lines and cumulative employment deprivations requires individual level data. And to examine relationships between these indicators and other social indicators (such as income support, educational outcomes, health indicators or housing support), we require microdata gathered over time at the household level. \nThe Eu Silc database is designed to analyse precisely these types of outcomes as the database contains both questions on employment as well as on household composition, income levels, and other social outcomes.\nMicrodata is also required for undertaking relevant robustness and sensitivity testing on the data used to ensure that the results of this study are valid."
+    },
+    "3.4": {
+      "title": "Project duration:",
+      "content": "From: 01/06/2023 To: 28/02/2027"
+    }
+  },
+  "4": {
+    "title": "Datasets to be used",
+    "4.1": {
+      "title": "Dataset(s) to be used:",
+      "content": "[Labour Force Survey (LFS), European Union Statistics on Income and Living Conditions (EU-SILC), Household Budget Survey (HBS)]",
+      "4.1.1": {
+        "title": "Countries requested:"
+      }
+    },
+    "4.2": {
+      "title": "Type(s) of confidential data for scientific purposes to be used:",
+      "content": "- Scientific use files (partially confidentialised data delivered to researchers)"
+    },
+    "4.3": {
+      "title": "Variable groups, reference years and target population to be used for each selected dataset:",
+      "content": "From the household budget survey 2010 and 2015, we will use expenditure variables to construct a basic food basket and poverty line in all available countries. Additional data on household composition is crucial to understand scale economies at the household level. Household characteristics and composition will also be used to adjust income variables and check the consistency of results.\n\nFrom the EUSILC individual files from 2010 till the most recent year, we will take first all indicators related with the labour market. First, consistency across time and countries will be evaluated and individual indicator of cumulative deprivation will be constructed. In addition, potential covariates at the individual, (civil status, age, gender, education, occupation, labour status, characteristics of employment situation such as contracts, migration or citizenship status), household and community level will be also explored in the analysis using geographical classifiers (NUTS).\n\nFinally, LFS from 2010 will support the construction of an external measure of the structure of the labour market using individual and traditional indicators to describe employment conditions."
+    },
+    "4.4": {
+      "title": "Description how the above-mentioned dataset will be used:",
+      "content": "First, data from the household budget survey will be used to estimate the structure of a set of minimum baskets and, subsequently, estimate absolute poverty lines. Then, using the EU SILC an index of cumulative deprivation in the labour market will be estimated at the individual lever following the Alkire/Foster methodology for multidimensional poverty. Finally, the results will be explored and compared with information regarding the structure of national labour market using the LFS."
+    },
+    "4.5": {
+      "title": "Methods of statistical analysis to be used:",
+      "content": "3.1: Measuring Earnings poverty\na) Empirical strategies:\nSix empirical strategies will be implemented in parallel: (i) an anchored-relative threshold; (ii) a material-deprivation-free-equivalent threshold; (iii) a making-ends-meet threshold (iv) an expenditure basket threshold; (v) an international Living Wage equivalent threshold; and (vi) an institutional minimum income threshold. \nEach of the six strategies will result in an alternative absolute in-work poverty threshold proposal for every country. \nb) Combining Earnings thresholds\nA weighted combination of all available (or imputed) thresholds for each country/year will be constructed to derive one final absolute poverty threshold. Weights will be determined as a function of the reliability of the threshold estimates (e.g., with lower weights assigned to imputed estimates, or to estimates with large sampling errors, or large prediction error in case of statistical matching). \nInstead of trying to determine one single best approach to determine the absolute threshold, this strategy has the dual advantage of combining the strengths from alternative approaches (where each strategy taken in isolation is clearly imperfect) and of optimizing the range of country-year pairs for which absolute thresholds can be constructed.\n3.2. Measuring cumulative employment deprivations \na) Comparison of results by dimension and country\nDescriptive statistics will be used to explore the main characteristic of the labour markets across countries, and a dashboard of indicators will be presented. The robustness of each indicator to changes in its cut-off will be analysed through Spearman correlation and dominance analysis across countries. To understand the relationship between variables, Cramer's V and tetrachoric correlation will be employed in the correlation analysis (Alkire et al, 2015).\nLastly, exploratory factor analysis and other data-driven techniques will be utilized to examine the structure of the indicators and how they aggregate into dimensions (Nájera & Gordon, 2020). Preliminarily, international literature supports the relevance of three key dimensions: earnings, job stability and employment conditions, but this may be re-evaluated. \nb)     Generating a measure of cumulative deprivations  \nTo generate a measure of cumulative deprivations, we will use the Alkire/Foster method (2011), as illustrated by Sehnbruch et al. (2020) and Hovhannisyan (2022). Alkire/Foster proposes a double cut-off axiomatic approach that identify multidimensional deprived individuals. The weighted sum of a set of dichotomized (first cut-off) indicators provide a counting vector that captures the accumulated distribution of detrimental conditions. A second cut-off identifies deprived individuals (the Headcount ratio, H), and the average of their weighted sum of deprivations as the intensity of the condition (Intensity score, A). The index of cumulative deprivation (M0) is straightforward and reflects the percentage of individuals identified as being deprived and the intensity of that condition (M0=H x A). The methodology fulfils a set of convenient axioms such as subgroup and sub-dimensional decomposability.\nAdditionally, a data driven measure will be also calculated, exploring the advantages and drawbacks of each methodology given the data used. Several strategies to select and build an alternative measure will be explored, namely, correspondence analysis and latent variable models factor analysis.\nc)     Robustness testing and sensitivity analysis\nFollowing Guio et al. (2018), reliability will be tested using classical test theory (alpha, beta and lambda), item response theory models and hierarchical omega analysis. Additionally, a set of tests to assess the robustness of the measure will be implemented. At the dimension level, we will test alternative cut-offs and indicators and test different weights structures and hierarchies. We will study the sensitivity of the aggregated index and its cut-offs using dominance conditions. And, finally, we will assess any potential bias derived from missing variables and non-applicable population.\nb) Decomposition and contribution analysis:\nWe will decompose our measure of cumulative deprivations into population subgroups, and contributions from each dimension and indicator to the overall result (Alkire & Foster, 2011). This decomposability permits the identification of which groups in the labour force are most likely to be deprived, and which employment characteristics contribute most to this result. This property of this method helps define policy priorities for improving employment conditions. The comparison across subgroups will be based in the idea of horizontal inequalities. Additionally, at the dimensional individual level, cluster analysis might help to understand the common traits across national subgroups.\nd) Comparison of methods\nWe will compare and contrast the axiomatic Alkire/Foster method with data driven methods of aggregation (such as principal component analysis), and discuss their respective benefits and drawbacks. Several empirical strategies will be examined to understand the benefits of each method. Among others, we will compare the reliability of the indexes, their stability to replication using random subsamples and their compliance with the axiomatic rules for poverty indicators."
+    }
+  },
+  "5": {
+    "title": "Results of the statistical analysis",
+    "5.1": {
+      "title": "Expected outcomes of the statistical analysis of the data:",
+      "content": "We expect him obtain measures of absolute earnings poverty as well of cumulative employment deprivations that will allow the academic community as well as policymakers to understand who the most vulnerable workers in a labour market are, and which characteristics are driving these outcomes. Simultaneously, the relationship between deprivation and labour markets and other social indicators will become evident from this research.\nKey to this project is the fact that it will undertake a systematic study of these relationships, as opposed to single country or single case studies that currently predominate research on job quality."
+    },
+    "5.2": {
+      "title": "Dissemination of results:",
+      "content": "The research will be published as academic articles in top internationally ranked journals. We expect at least 2 articles to be published on these results. The work may also feed into a potential book on cumulative deprivations and vulnerabilities in the labour market"
+    }
+  },
+  "6": {
+    "title": "Safekeeping of confidential data for scientific purposes",
+    "6.1": {
+      "title": "Safekeeping measures of European scientific use files:",
+      "content": "1)\tThere are several identity check that one needs to pass before accessing the computers that will store the data. First, the door to get inside the LSE building is always guarded by several security agents, who only concede access permission after having being shown an appropriate ID card. Then, to reach the floor where the office is located, there is an ID card-reader. Only members of the research institute have permission to access these facilities. Finally, the office is blocked with an electronic lock, whose security code is frequently updated. Only research members that work in that specific office have the pertinent fob that opens the door. All research members working in that office are named in the project, and they all will make use of this data.\n2)\tComputers are protected with antivirus and firewalls provided by LSE. They are updated weekly. Moreover, the hard disk in the computer will be secured by an AES-256 encryption, hence making sure that no one besides the data manager have direct access to the data.\n3)\tThe IT and the data manager at LSE will manage the data and make sure that all files are removed after the project finishes.\n4)\tNo storage cloud or mobile devices will be used to store the data.\n5)\tThe data manager will secure that the storage device is kept under lock, and will not provide the key to the researchers\n6)\tThe access to the office and the computers is restricted to researchers listed in the application form.\n7)\tIt will be impossible to access the data remotely. Besides, as said, no cloud or similar systems will storage any kind of data."
+    },
+    "6.2": {
+      "title": "Anonymisation of results:",
+      "content": "The anonymity of the statistical units is completely secured. Only aggregated data will be published, at the level of individual countries, years, or population subgroups. We will ensure that all results are based on the aggregation of more than 200 observations, so the guidelines on thresholds are respected.\nRegarding the publication, conference presentations or other dissemination activities, all results presented will be based on such aggregate measures. No individual information will ever be made available to the public."
+    }
+  }
+}
